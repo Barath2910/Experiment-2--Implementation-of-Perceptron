@@ -120,3 +120,6 @@ plt.show()
 ![image](o2.jpg)
 ### Ploted values
 ![image](o1.jpg)
+
+## RESULT:
+   Thus to implement a perceptron for classification using python sucessfully executed.
